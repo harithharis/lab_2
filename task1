@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Information</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Personal Information</h2>
+
+<table>
+    <tr>
+        <th>Attribute</th>
+        <th>Information</th>
+    </tr>
+    <tr>
+        <td>Name</td>
+        <td>Muhammad Harith Haikal Bin Mohd Hafiz</td>
+    </tr>
+    <tr>
+        <td>Date of Birth</td>
+        <td>30 October 2002</td>
+    </tr>
+    <tr>
+        <td>Religion</td>
+        <td>Islam</td>
+    </tr>
+    <tr>
+        <td>Race</td>
+        <td>Malay</td>
+    </tr>
+    <tr>
+        <td>Address</td>
+        <td>Jalan Yusuf, City of Cure, Muar, Johor</td>
+    </tr>
+    <tr>
+        <td>Contact</td>
+        <td>Mobile Phone: 0115323497<br>Social Media: harithhykl<br>Website: harithhyklz@gmail.com</td>
+    </tr>
+    <tr>
+        <td>Course and Institution</td>
+        <td>INFORMATION TECHNOLOGY (UTHM)</td>
+    </tr>
+    <tr>
+        <td>Programming Skills</td>
+        <td>1. Java<br>2. Python<br>3. HTML<br>4. C</td>
+    </tr>
+    <tr>
+        <td>Personal Interest</td>
+        <td>Late night talk</td>
+    </tr>
+    <tr>
+        <td>Plan in 2024</td>
+        <td>Want to be a better self than before</td>
+    </tr>
+</table>
+
+</body>
+</html>
